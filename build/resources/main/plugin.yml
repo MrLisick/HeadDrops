@@ -1,0 +1,11 @@
+name: HeadDrops
+version: 1.0
+main: com.headDrops.HeadDrops
+api-version: '1.21'
+commands:
+  giveguillotine:
+    description: Выдать магическую книгу
+    permission: headdrops.admin
+  headdrops:
+    description: Основная команда управления плагином
+    permission: headdrops.admin
