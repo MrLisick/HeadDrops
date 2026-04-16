@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2026 _MrLisick_. All rights reserved.
+ * This software is protected by a proprietary license.
+ * Modification or redistribution of this code is strictly prohibited.
+ */
 package com.headDrops;
 
 import org.bukkit.Bukkit;
